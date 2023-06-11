@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SSEDemo</string>
+    <string name="images_from_server">Images from server</string>
+</resources>
